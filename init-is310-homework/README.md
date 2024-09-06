@@ -1,6 +1,6 @@
 # Init IS310 Homework
 
-##Proof of Installation
+## Proof of Installation
 
 1. Discord:
 ![discord](https://github.com/user-attachments/assets/3ff294ff-71d0-4130-857c-e6894d18e2c7)
