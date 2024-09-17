@@ -3,8 +3,10 @@
 **Website URL**: https://www.library.illinois.edu/
 
 **Web Technologies Used**:
--HTML: Used to structure the content, as seen in the <html>, <head>, <body>, and other elements.
+-HTML: Used to structure the content, as seen in the "html", "head", "body", and other elements.
+
 -CSS: External stylesheets like .css files manage the design and layout. Example: styles linked in the header or inline styles in the source code.
+
 -JavaScript: Files like easy-search.js and spotlight.js are responsible for interactive elements.
 ![web](https://github.com/user-attachments/assets/3d2be0c8-4291-4bc1-8f8e-bb0d9e61007a)
 
