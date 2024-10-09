@@ -7,14 +7,16 @@ After entering the data, it confirms each entry before saving it to a `movies_da
 
 ## Prerequisites
 It uses the rich library to print styled text to the console, so you need to make sure you instal the rich library.
+
 step 1 Ensure pip is installed: python3 -m ensurepip --upgrade
+
 step 2 Install the rich module using pip: python3 -m pip install rich
+
 step 3 Run script: python3 cli_data_entry.py
 
 ##Result
 The result should be a table that looks like this
-
-             Favorite Movies                
+               
 ┏━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━┓
 ┃ Title         ┃ Release Date ┃   Box Office ┃
 ┡━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━┩
