@@ -14,7 +14,7 @@ step 2 Install the rich module using pip: python3 -m pip install rich
 
 step 3 Run script: python3 cli_data_entry.py
 
-##Result
+## Result
 The result should be a table that looks like this
                
 ┏━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━┓
@@ -24,4 +24,4 @@ The result should be a table that looks like this
 │ Spirited Away │ 2001         │ $355,467,000 │
 │ Coco          │ 2017         │ $807,082,196 │
 
-##Have fun and let me know if anything needs to be fixed =)
+## Have fun and let me know if anything needs to be fixed =)
