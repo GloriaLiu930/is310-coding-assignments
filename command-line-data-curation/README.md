@@ -20,5 +20,7 @@ step 3 Run script:
 
 python3 cli_data_entry.py
 
+## Suggestion
+When you enter a number, please enter "$1000000000" instead of "$1,000,000,000".
 
 ## Have fun and let me know if anything needs to be fixed =)
