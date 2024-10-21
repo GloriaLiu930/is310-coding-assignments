@@ -22,3 +22,4 @@ for table in tables:
 
 df = pd.DataFrame(table_data)
 df.to_csv('harry_potter_deaths.csv', index=False)
+
