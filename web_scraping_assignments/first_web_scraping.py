@@ -15,3 +15,4 @@ book_items = book_list.find_all('li')
 for item in book_items:
     title = item.get_text().strip()
     print(title)
+
