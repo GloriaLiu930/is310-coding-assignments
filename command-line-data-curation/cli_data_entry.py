@@ -44,4 +44,4 @@ with open("movies_data.csv", "w") as file:
     for movie in movies:
         file.write(f"{movie[0]},{movie[1]},{movie[2]}\n")
 
-console.print(f"\n[bold green]Data saved to movies_data.csv![/bold pink]")
+console.print(f"\n[bold pink]Data saved to movies_data.csv![/bold pink]")
