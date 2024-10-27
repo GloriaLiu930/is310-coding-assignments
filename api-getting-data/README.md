@@ -6,12 +6,16 @@ Due to I'm a cat person. This project retrieves data from two APIs: the **MeowFa
 ## How to Use
 1. **Europeana API Key**: Before running, add your Europeana API key in the script under `europeana_api_key`.
    Here's how to get your API key:
+   
    a. Visit the link: https://pro.europeana.eu/pages/get-api
+   
    b. Sign up by using your @illinois.edu email address
+   
    c. The Application or Project Name is IS310 Computing in the Humanities Course
+   
    d. The website is either your .github.io website or our course website https://cultureasdata-uiuc.github.io/is310-fall-2024/
 
-Once you have applied, you should see your api key in your inbox in a few minutes.
+Once you have applied, you should see your API key in your inbox in a few minutes.
 
 2. **Run the Script**:
    ```bash
